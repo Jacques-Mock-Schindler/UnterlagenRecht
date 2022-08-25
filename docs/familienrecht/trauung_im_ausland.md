@@ -69,8 +69,7 @@ gerade jene des familienrechtlichen Schutzes zu berauben, die ihn am
 nötigsten haben -- den Frauen und den Kindern.
 ---
 
-| [Vorherige Seite](eheschliessung) | [Inhaltsverzeichnis](../index) |
-[Nächste Seite](eheliche_gemeinschaft) |
+| [Vorherige Seite](eheschliessung) | [Inhaltsverzeichnis](../index) | [Nächste Seite](eheliche_gemeinschaft) |
 
 [^1]: [Demographisches Portrait der Schweiz: Bevölkerung und Haushalte](https://www.swissstats.bfs.admin.ch/collection/ch.admin.bfs.swissstat.de.issue22014792000/article/issue22014792000-04).
 

@@ -100,6 +100,9 @@ Unterhalt aufzukommen[^16]. Die Voraussetzungen für diesen Unterhalt
 werden grundsätzlich in Art. 125 ZGB aufgelistet. Das Bundesgericht hat
 in letzter Zeit die Anforderungen an den nachehelichen Unterhalt
 drastisch nach oben angepasst.[^nzz]
+---
+
+| [Vorherige Seite](gueterrecht/guetertrennung) | [Inhaltsverzeichnis](../index) | [Nächste Seite](kinder_entstehung.md) |
 
 [^1]: Geiser, Thomas, und Adolf Lüchinger. „Die Ehescheidung und die
     Ehetrennung; Vorbemerkungen zu Art. 111 folgende“. In

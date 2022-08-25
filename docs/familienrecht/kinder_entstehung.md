@@ -79,8 +79,7 @@ Verbindung zur biologischen Familie, die bestehen bleibt, ist das
 Ehehindernis der Verwandtschaft.
 ---
 
-| [Vorherige Seite](scheidung) |
-[Inhaltsverzeichnis](../index) | [Nächste Seite](kinder_wirkung) |
+| [Vorherige Seite](scheidung) | [Inhaltsverzeichnis](../index) | [Nächste Seite](kinder_wirkung) |
 
 [^1]: Schwenzer, Ingeborg. „Die Entstehung des Kindesverhältnisses:
     Vorbemerkungen zu Art. 252 - 359“. In Zivilgesetzbuch I,

@@ -87,8 +87,7 @@ Die güterrechtliche Auseinandersetzung erfolgt in vier Schritten[^4]:
 Auseinandersetzung](/errungenschaftsbeteiligung.svg)
 ---
 
-| [Vorherige Seite](../eheliche_gemeinschaft) |
-[Inhaltsverzeichis](../../index) | [Nächste Seite](guetergemeinschaft) |
+| [Vorherige Seite](../eheliche_gemeinschaft) | [Inhaltsverzeichis](../../index) | [Nächste Seite](guetergemeinschaft) |
 
 
 [^1]: Hausheer, Heinz, Thomas Geiser, und Regina Elisabeth Aebi-Müller.
