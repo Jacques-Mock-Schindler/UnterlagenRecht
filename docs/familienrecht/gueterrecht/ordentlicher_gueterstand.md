@@ -83,8 +83,7 @@ Die güterrechtliche Auseinandersetzung erfolgt in vier Schritten[^4]:
    ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_215)
    sind die gegenseitigen Forderungen miteinander zu verrechnen.
 
-![Grafische Darstellung der güterrechtlichen
-Auseinandersetzung](/errungenschaftsbeteiligung.svg)
+![Grafische Darstellung der güterrechtlichen Auseinandersetzung](../graphics/errungenschaftsbeteiligung.svg)
 ---
 
 | [Vorherige Seite](../eheliche_gemeinschaft) | [Inhaltsverzeichis](../../index) | [Nächste Seite](guetergemeinschaft) |
