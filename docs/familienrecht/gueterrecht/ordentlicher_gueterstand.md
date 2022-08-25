@@ -112,4 +112,4 @@ Die güterrechtliche Auseinandersetzung erfolgt in vier Schritten[^4]:
 
 [^10]: Basler Kommentar Eherecht, Art. 205 ZGB N 4 f.
 
-[^BGE]: [BGE 100 II 71, E. 2b.](https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F100-II-71%3Ade&lang=de&zoom=&type=show_document#:~:text=b\)-,Der%20Vorschlag%20ist%20den,Frau%20am%20ehelichen%20Vorschlag.,-c\)%20In%20der)
+[^BGE]: [BGE 100 II 71, E. 2b.](https://bit.ly/3cnpqqC)
