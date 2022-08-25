@@ -144,7 +144,7 @@ drastisch nach oben angepasst.[^nzz]
 
 [^12]: Basler Kommentar Art. 114 ZGB, N 3.
 
-[^13]: [BGE 126 III 404, E. 4 h)](http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F126-III-404%3Ait&lang=it&type=show_document) [BGE 128 III 1, E. 3 a cc](http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F128-III-1%3Ade&lang=de&type=show_document)
+[^13]: [BGE 126 III 404, E. 4 h),](http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F126-III-404%3Ait&lang=it&type=show_document) [BGE 128 III 1, E. 3 a cc](http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F128-III-1%3Ade&lang=de&type=show_document)
 
 [^14]: Familienrecht ZGB N 10.34.
 

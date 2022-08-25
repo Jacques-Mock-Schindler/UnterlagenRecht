@@ -77,6 +77,7 @@ Kindesverhältnisses durch einen Rechtsakt. Die Adoption tritt an die
 Stelle des biologischen Kindesverhältnisses[^11]. Die einzige rechtliche
 Verbindung zur biologischen Familie, die bestehen bleibt, ist das
 Ehehindernis der Verwandtschaft.
+
 ---
 
 | [Vorherige Seite](scheidung) | [Inhaltsverzeichnis](../index) | [Nächste Seite](kinder_wirkung) |

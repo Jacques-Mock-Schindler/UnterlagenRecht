@@ -16,6 +16,7 @@ auch ein, wenn die Scheidung verlangt wird.
 
 Weil es unter diesem Güterstand kein gemeinsames Vermögen gibt, erübrigt
 sich eine güterrechtliche Ausseinandersetzung.[^1]
+
 ---
 
 | [Vorherige Seite](guetergemeinschaft) | [Inhaltsverzeichnis](../../index) | [Nächste Seite](../scheidung) |

@@ -121,6 +121,7 @@ Sorge selber überflüssig macht[^10].
 Eine Scheidung beendet wohl die Ehe, nicht aber das Eltern-Kind
 Verhältnis. Aus diesem Grund steht die elterliche Sorge auch
 geschiedenen Eltern grundsätzlich gemeinsam zu[^11].
+
 ---
 
 | [Vorherige Seite](kinder_entstehung) | [Inhaltsverzeichnis](../index) |

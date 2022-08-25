@@ -65,6 +65,7 @@ Augenblicks unterstreichen[^5].
 In der Schweiz gilt der Primat der Zivilehe. [Art. 97 Abs. 3
 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_97)
 verbietet kirchliche Trauungen vor der Ziviltrauung.
+
 ---
 
 | [Vorherige Seite](verloebnis) | [Inhaltsverzeichnis](../index) | [Nächste Seite](trauung_im_ausland) |

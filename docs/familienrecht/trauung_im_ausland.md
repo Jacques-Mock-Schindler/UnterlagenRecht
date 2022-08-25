@@ -67,6 +67,7 @@ Diese Haltung ist abzulehnen. Es geht nicht an, unter Verweis auf den
 *ordre public* die Eintragung polygamer Ehen zu verbieten und damit
 gerade jene des familienrechtlichen Schutzes zu berauben, die ihn am
 nötigsten haben -- den Frauen und den Kindern.
+
 ---
 
 | [Vorherige Seite](eheschliessung) | [Inhaltsverzeichnis](../index) | [Nächste Seite](eheliche_gemeinschaft) |

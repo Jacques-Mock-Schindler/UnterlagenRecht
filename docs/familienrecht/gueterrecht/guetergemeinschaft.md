@@ -35,6 +35,7 @@ einfacher als im ordentlichen Güterstand der Errungenschaftsbeteiligung.
 Hier ist lediglich festzustellen, zu welchen Massen ein einzelner
 Vermögenswert gehört. Nach dieser Zuweisung erhalten beide Ehegatten die
 Hälfte vom Gesamtgut.[^1]
+
 ---
 
 | [Vorherige Seite](ordentlicher_gueterstand) | [Inhaltsverzeichnis](../../index) | [Nächste Seite](guetertrennung) |
