@@ -28,6 +28,8 @@ Schenkungen i. S. v. [Art. 239 OR](https://www.fedlex.admin.ch/eli/cc/27/3
 Zuwendungen gemeint[^3]. Ausserdem sind nach [Art. 92 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_92) die im Hinblick
 auf den Eheschluss gemachten Aufwendungen angemessen zu entschädigen.
 
+---
+
 [^1]: Huwiler, Bruno. „Das Verlöbnis“. In Zivilgesetzbuch I,
     herausgegeben von Heinrich Honsell, Nedim Peter Vogt, und Thomas
     Geiser, 5. Auflage. Basler Kommentar. Basel: Helbing Lichtenhahn
@@ -36,3 +38,5 @@ auf den Eheschluss gemachten Aufwendungen angemessen zu entschädigen.
 [^2]: Hausheer, Heinz, Thomas Geiser, und Regina Elisabeth Aebi-Müller. Das Familienrecht des Schweizerischen Zivilgesetzbuches. 5., Vollständig überarbeitete und Aktualisierte Auflage. Stämpflis juristische Lehrbücher. Bern: Stämpfli, 2014; N 04.01.
 
 [^3]: Huwiler; N 5.
+
+| [Zurück](../index) | [Nächste Seite](eheschliessung) |
