@@ -10,7 +10,7 @@
     * [Gütergemeinschaft](familienrecht/gueterrecht/guetergemeinschaft.md)
     * [Gütertrennung](familienrecht/gueterrecht/guetertrennung.md)
   * [Ehescheidung](familienrecht/scheidung.md)
-  * Familienrecht
+* Familienrecht
     * [Entstehung des Kindsverhältnisses](familienrecht/kinder_entstehung.md)
     * [Wirkung des Kindsverhältnisses](familienrecht/kinder_wirkung.md)
 * Haftpflichtrecht
