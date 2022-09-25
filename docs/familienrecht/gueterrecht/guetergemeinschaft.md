@@ -36,9 +36,12 @@ Hier ist lediglich festzustellen, zu welchen Massen ein einzelner
 Vermögenswert gehört. Nach dieser Zuweisung erhalten beide Ehegatten die
 Hälfte vom Gesamtgut.[^1]
 
+* Zurück zur [vorherigen Seite](ordentlicher_gueterstand)
+* Weiter zur [nächsten Seite](guetertrennung)
+* [Zum Inhaltsverzeichnis](../../index)
+
 ---
 
-| [Vorherige Seite](ordentlicher_gueterstand) | [Inhaltsverzeichnis](../../index) | [Nächste Seite](guetertrennung) |
 
 [^1]: Hausheer, Heinz, Thomas Geiser, und Regina Elisabeth Aebi-Müller.
     Das Familienrecht des Schweizerischen Zivilgesetzbuches. 5.,
