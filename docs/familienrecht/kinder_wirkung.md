@@ -122,9 +122,11 @@ Eine Scheidung beendet wohl die Ehe, nicht aber das Eltern-Kind
 Verhältnis. Aus diesem Grund steht die elterliche Sorge auch
 geschiedenen Eltern grundsätzlich gemeinsam zu[^11].
 
+* Zurück zur [vorherigen Seite](kinder_entstehnung)
+* [Zum Inhaltsverzeichnis](../index)
+
 ---
 
-| [Vorherige Seite](kinder_entstehung) | [Inhaltsverzeichnis](../index) |
 
 [^1]: zur Kritik am neuen Sorgerecht vgl. Geiser, Thomas. „Umsetzung der gemeinsamen Sorge durch die Gerichte“. Aktuelle juristische Praxis 8/2015 (2015), S. 1102 ff.
 
