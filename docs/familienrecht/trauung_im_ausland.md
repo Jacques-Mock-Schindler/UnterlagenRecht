@@ -68,9 +68,12 @@ Diese Haltung ist abzulehnen. Es geht nicht an, unter Verweis auf den
 gerade jene des familienrechtlichen Schutzes zu berauben, die ihn am
 nötigsten haben -- den Frauen und den Kindern.
 
+* Zurück zur [vorherigen Seite](eheschliessung)
+* Weiter zur [nächsten Seite](eheliche_gemeinschaft)
+* [Zum Inhaltsverzeichnis](../index)
+
 ---
 
-| [Vorherige Seite](eheschliessung) | [Inhaltsverzeichnis](../index) | [Nächste Seite](eheliche_gemeinschaft) |
 
 [^1]: [Demographisches Portrait der Schweiz: Bevölkerung und Haushalte](https://www.swissstats.bfs.admin.ch/collection/ch.admin.bfs.swissstat.de.issue22014792000/article/issue22014792000-04).
 

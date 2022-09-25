@@ -28,8 +28,10 @@ Schenkungen i. S. v. [Art. 239 OR](https://www.fedlex.admin.ch/eli/cc/27/3
 Zuwendungen gemeint[^3]. Ausserdem sind nach [Art. 92 ZGB](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#art_92) die im Hinblick
 auf den Eheschluss gemachten Aufwendungen angemessen zu entschädigen.
 
-* Zurück zum [Inhaltsverzeichnis](../index)
-* Zur [nächsten Seite](eheschliessung)
+
+* Weiter zur [nächsten Seite](eheschliessung)
+* [Zum Inhaltsverzeichnis](../index)
+
 
 ---
 
